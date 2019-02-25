@@ -1,5 +1,8 @@
-#include "Person.h"
 #include <string>
+#ifndef PERSON_H
+#include "Person.h"
+#endif
+
 class Tweeter :
 	public Person1
 {
